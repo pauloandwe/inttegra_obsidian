@@ -11,12 +11,14 @@
             "id": "18ff264dda96697d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "split-diff-view",
               "state": {
-                "file": "Excalidraw/Manejo.md"
+                "aFile": "Excalidraw/Manejo.md",
+                "bFile": "Excalidraw/Manejo.md",
+                "aRef": ""
               },
-              "icon": "excalidraw-icon",
-              "title": "Manejo"
+              "icon": "diff",
+              "title": "Diff: Manejo"
             }
           }
         ]
@@ -76,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4ee717a7c47bbb44",
