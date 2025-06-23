@@ -13,13 +13,38 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Manejo.md"
+                "file": "Excalidraw/Manejo Offline.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Manejo"
+              "title": "Manejo Offline"
+            }
+          },
+          {
+            "id": "8d06e7add2db4b25",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Manejo Offline.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Manejo Offline"
+            }
+          },
+          {
+            "id": "e8d1bf45bde2c0a4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Entradas.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Entradas"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -76,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4ee717a7c47bbb44",
@@ -179,8 +203,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "891043674aa78a02",
+  "active": "e8d1bf45bde2c0a4",
   "lastOpenFiles": [
-    "Excalidraw/Manejo.md"
+    "Excalidraw/Manejo Offline.md",
+    "Excalidraw/Entradas.md",
+    "Excalidraw/Untitled.md"
   ]
 }
