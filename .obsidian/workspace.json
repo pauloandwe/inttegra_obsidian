@@ -76,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4ee717a7c47bbb44",
@@ -180,9 +181,10 @@
   },
   "active": "d1610585c6a61455",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Pasted Image 20250625120804_498.png",
     "Excalidraw/Entradas.md",
     "Excalidraw/Manejo Offline.md",
+    "Untitled.canvas",
     "Images/Pasted Image 20250624104313_438.png",
     "Images/Pasted Image 20250623165114_202.png",
     "Excalidraw/Untitled.md"
