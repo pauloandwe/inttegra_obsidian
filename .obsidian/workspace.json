@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c2f10de84a938307",
+        "id": "7ba1ff43eb792ddc",
         "type": "tabs",
         "children": [
           {
-            "id": "d1610585c6a61455",
+            "id": "0823dea545745f01",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -76,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4ee717a7c47bbb44",
@@ -179,10 +178,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d1610585c6a61455",
+  "active": "0823dea545745f01",
   "lastOpenFiles": [
-    "Pasted Image 20250625120804_498.png",
     "Excalidraw/Entradas.md",
+    "Pasted Image 20250625120804_498.png",
     "Excalidraw/Manejo Offline.md",
     "Untitled.canvas",
     "Images/Pasted Image 20250624104313_438.png",
