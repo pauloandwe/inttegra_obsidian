@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7ba1ff43eb792ddc",
+        "id": "1e881abf2730fa03",
         "type": "tabs",
         "children": [
           {
-            "id": "0823dea545745f01",
+            "id": "69dacfac2de79b8d",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Progresso Entradas.md"
+                "file": "Excalidraw/Entradas.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Progresso Entradas"
+              "title": "Entradas"
             }
           }
         ]
@@ -178,7 +178,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0823dea545745f01",
+  "active": "ba44404fb5521d5e",
   "lastOpenFiles": [
     "Excalidraw/Entradas.md",
     "Excalidraw/Progresso Entradas.md",
