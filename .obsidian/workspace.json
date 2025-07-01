@@ -76,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4ee717a7c47bbb44",
@@ -178,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ba44404fb5521d5e",
+  "active": "69dacfac2de79b8d",
   "lastOpenFiles": [
     "Excalidraw/Entradas.md",
     "Excalidraw/Progresso Entradas.md",
