@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "733c683d889e0361",
+        "id": "1ea265fc0866b250",
         "type": "tabs",
         "children": [
           {
-            "id": "73d776b3e1abe01d",
+            "id": "b53d3cefadbd947d",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-08-15 10.32.50.excalidraw.md"
+                "file": "Excalidraw/Chat.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-08-15 10.32.50.excalidraw"
+              "title": "Chat"
             }
           }
         ]
@@ -179,11 +179,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "73d776b3e1abe01d",
+  "active": "b53d3cefadbd947d",
   "lastOpenFiles": [
-    "Excalidraw/Entradas.md",
     "Excalidraw/Manejo Offline.md",
-    "Excalidraw/Drawing 2025-08-15 10.32.50.excalidraw.md",
+    "Excalidraw/Chat.md",
+    "Pasted Image 20250818151233_597.png",
+    "Pasted Image 20250818151209_899.png",
+    "Excalidraw/Entradas.md",
     "Excalidraw/Drawing 2025-07-10 16.07.37.excalidraw.md",
     "Excalidraw/Progresso Entradas.md",
     "Small Tasks/8081 - Entradas.md",
