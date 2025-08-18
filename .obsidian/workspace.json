@@ -76,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4ee717a7c47bbb44",
@@ -179,7 +180,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b53d3cefadbd947d",
+  "active": "ba44404fb5521d5e",
   "lastOpenFiles": [
     "Excalidraw/Entradas.md",
     "Excalidraw/Manejo Offline.md",
