@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1ea265fc0866b250",
+        "id": "7a828d1e369c5159",
         "type": "tabs",
         "children": [
           {
-            "id": "b53d3cefadbd947d",
+            "id": "1cbe1550c1e5b345",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -76,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4ee717a7c47bbb44",
@@ -180,17 +179,17 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b53d3cefadbd947d",
+  "active": "1cbe1550c1e5b345",
   "lastOpenFiles": [
+    "Excalidraw/Progresso Entradas.md",
+    "Excalidraw/Manejo Offline.md",
+    "Excalidraw/Drawing 2025-07-10 16.07.37.excalidraw.md",
+    "Excalidraw/Entradas.md",
+    "Excalidraw/Chat.md",
     "Pasted Image 20250818163549_431.png",
     "Pasted Image 20250818163449_332.png",
-    "Excalidraw/Entradas.md",
-    "Excalidraw/Manejo Offline.md",
-    "Excalidraw/Chat.md",
     "Pasted Image 20250818151233_597.png",
     "Pasted Image 20250818151209_899.png",
-    "Excalidraw/Drawing 2025-07-10 16.07.37.excalidraw.md",
-    "Excalidraw/Progresso Entradas.md",
     "Small Tasks/8081 - Entradas.md",
     "Small Tasks/8294 - Movimentação de estoque.md",
     "Prioridades/Entradas.md",
