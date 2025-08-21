@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "7a828d1e369c5159",
+        "id": "abd2af745d4e3921",
         "type": "tabs",
         "children": [
           {
-            "id": "1cbe1550c1e5b345",
+            "id": "3f2eb4237c68421e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Chat.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Chat"
+            }
+          },
+          {
+            "id": "2279b74ec2c612a5",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -19,7 +31,8 @@
               "title": "Chat"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,6 +181,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -179,22 +193,22 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "1cbe1550c1e5b345",
+  "active": "2279b74ec2c612a5",
   "lastOpenFiles": [
-    "Excalidraw/Progresso Entradas.md",
-    "Excalidraw/Manejo Offline.md",
-    "Excalidraw/Drawing 2025-07-10 16.07.37.excalidraw.md",
     "Excalidraw/Entradas.md",
+    "Excalidraw/Manejo Offline.md",
+    "Pontos/Analistas.md",
+    "Prioridades/Entradas.md",
     "Excalidraw/Chat.md",
-    "Pasted Image 20250818163549_431.png",
-    "Pasted Image 20250818163449_332.png",
-    "Pasted Image 20250818151233_597.png",
-    "Pasted Image 20250818151209_899.png",
+    "Images/Pasted Image 20250818163549_431.png",
+    "Images/Pasted Image 20250818163449_332.png",
+    "Excalidraw/Progresso Entradas.md",
+    "Excalidraw/Drawing 2025-07-10 16.07.37.excalidraw.md",
+    "Images/Pasted Image 20250818151233_597.png",
+    "Images/Pasted Image 20250818151209_899.png",
     "Small Tasks/8081 - Entradas.md",
     "Small Tasks/8294 - Movimentação de estoque.md",
-    "Prioridades/Entradas.md",
     "Small Tasks",
-    "Pontos/Analistas.md",
     "Untitled.md",
     "Prioridades",
     "Images/Pasted Image 20250616163305_512.png",
